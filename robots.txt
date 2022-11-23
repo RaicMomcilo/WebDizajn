@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /parfemi/
+Disallow: /patike/
+Disallow: Kontakti.html
+Disallow: Ostali.css
+Disallow: Parfemi.html
+Disallow: Patike.html
+Disallow: stilovi.css
+
+Sitemap: https://raicmomcilo.github.io/WebDizajn/sitemap.xml
